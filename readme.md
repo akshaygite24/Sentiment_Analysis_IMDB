@@ -29,8 +29,8 @@ Some scenes were good but the ending disappointed me|Negative
 
 ## Tech Stack
 - **Programming Languages:** Python
-- **Libraries:** Scikit-learn, NLTK, Pandas, Streamlit
-- **Framework:** Pandas, Matplotlib
+- **Libraries:** Scikit-learn, NLTK, Pandas, Matplotlib
+- **Framework:** Streamlit
 - **Modelling:** Logistic regression, TF-IDF Vectorization
 
 
