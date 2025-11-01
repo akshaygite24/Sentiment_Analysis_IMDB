@@ -3,6 +3,8 @@ numpy
 scikit-learn
 nltk
 spacy
+matplotlib
+seaborn
 joblib
 streamlit
 tqdm
